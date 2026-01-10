@@ -4,7 +4,7 @@
  # https://youtu.be/4P2E9krELO8?si=dxNOrhmZeXJaMj6V
 
 # Problem Statement
-INTERSTELLAR addresses these problems of Space Technology :
+STELLAR addresses these problems of Space Technology :
  1. By 2030, 100,000+ satellites will crowd Earth’s orbit.
  2. Already 36,000+ debris objects >10 cm threaten active satellites.
  3. A single collision (Kessler Syndrome) can trigger chain reactions.
